@@ -14,3 +14,13 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<!-- markdownlint-disable MD033 -->
+<table>
+ <tr>
+    <td><a href="LINK_URL1"><img src="URL_TO_IMAGE1" alt="Image 1 Description"></a></td>
+    <td><a href="LINK_URL2"><img src="URL_TO_IMAGE2" alt="Image 2 Description"></a></td>
+    <td><a href="LINK_URL3"><img src="URL_TO_IMAGE3" alt="Image 3 Description"></a></td>
+ </tr>
+</table>
+<!-- markdownlint-enable MD033 -->
