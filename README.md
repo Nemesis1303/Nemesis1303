@@ -16,8 +16,8 @@ Here are some ideas to get you started:
 -->
 
 <!-- markdownlint-disable MD033 -->
-<table style="border-collapse: collapse;">
- <tr>
+<table style="border-collapse: collapse; border: none;">
+ <tr style="border: none;">
     <td style="border: none;">
       <a href="mailto:lcalvo@pa.uc3m.es">
         <img src="img/email.png" alt="Image Alt Text 1" width="25" height="25">
