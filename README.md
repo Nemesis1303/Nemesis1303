@@ -1,4 +1,4 @@
-### Hi there 👋
+# Hi there 👋
 
 <!--
 **Nemesis1303/Nemesis1303** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -16,7 +16,17 @@ Here are some ideas to get you started:
 -->
 
 <!-- markdownlint-disable MD033 -->
-<table>
+<style>
+  .transparent-border {
+    border-collapse: collapse;
+  }
+  
+  .transparent-border td {
+    border: none;
+  }
+</style>
+
+<table class="transparent-border">
   <tr>
     <td>
       <a href="mailto:lcalvo@pa.uc3m.es">
