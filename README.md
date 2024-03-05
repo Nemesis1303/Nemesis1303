@@ -17,10 +17,22 @@ Here are some ideas to get you started:
 
 <!-- markdownlint-disable MD033 -->
 <table>
- <tr>
-    <td><a href="LINK_URL1"><img src="URL_TO_IMAGE1" alt="Image 1 Description"></a></td>
-    <td><a href="LINK_URL2"><img src="URL_TO_IMAGE2" alt="Image 2 Description"></a></td>
-    <td><a href="LINK_URL3"><img src="URL_TO_IMAGE3" alt="Image 3 Description"></a></td>
- </tr>
+  <tr>
+    <td>
+      <a href="mailto:lcalvo@pa.uc3m.es">
+        <img src="img/email.png" alt="Image Alt Text 1" width="25" height="25">
+      </a>
+    </td>
+    <td>
+      <a href="https://www.linkedin.com/in/lorena-calvo-bartolom%C3%A9-20826b124/">
+        <img src="img/linkedin.png" alt="Image Alt Text 2" width="25" height="25">
+      </a>
+    </td>
+    <td>
+      <a href="https://scholar.google.com/citations?user=qtRz6ksAAAAJ&hl=en&oi=ao">
+        <img src="img/scholar.png" alt="Image Alt Text 3" width="25" height="25">
+      </a>
+    </td>
+  </tr>
 </table>
 <!-- markdownlint-enable MD033 -->
