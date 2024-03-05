@@ -1,4 +1,4 @@
-# Hi there 👋
+### Hi there 👋
 
 <!--
 **Nemesis1303/Nemesis1303** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -16,33 +16,23 @@ Here are some ideas to get you started:
 -->
 
 <!-- markdownlint-disable MD033 -->
-<style>
-  .transparent-border {
-    border-collapse: collapse;
-  }
-  
-  .transparent-border td {
-    border: none;
-  }
-</style>
-
-<table class="transparent-border">
-  <tr>
-    <td>
+<table style="border-collapse: collapse;">
+ <tr>
+    <td style="border: none;">
       <a href="mailto:lcalvo@pa.uc3m.es">
         <img src="img/email.png" alt="Image Alt Text 1" width="25" height="25">
       </a>
     </td>
-    <td>
+    <td style="border: none;">
       <a href="https://www.linkedin.com/in/lorena-calvo-bartolom%C3%A9-20826b124/">
         <img src="img/linkedin.png" alt="Image Alt Text 2" width="25" height="25">
       </a>
     </td>
-    <td>
+    <td style="border: none;">
       <a href="https://scholar.google.com/citations?user=qtRz6ksAAAAJ&hl=en&oi=ao">
         <img src="img/scholar.png" alt="Image Alt Text 3" width="25" height="25">
       </a>
     </td>
-  </tr>
+ </tr>
 </table>
 <!-- markdownlint-enable MD033 -->
